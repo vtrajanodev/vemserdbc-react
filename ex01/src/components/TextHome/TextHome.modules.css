@@ -1,0 +1,13 @@
+
+.textHome {
+
+    background-color: #ccc;
+    padding: 2rem 5rem;
+    margin-top: 2rem;
+}
+
+p {
+    text-align: justify;
+    line-height: 20px;
+    margin-bottom: 1.5rem;
+}
